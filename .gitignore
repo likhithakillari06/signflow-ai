@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+next-env.d.ts
+public/pdf.worker.min.mjs
+test-results
+playwright-report
+.test-tmp
+.vercel
+*.log
+.DS_Store
+public/pdfjs
+.next-e2e
